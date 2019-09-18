@@ -1,1 +1,7 @@
-This is another dummy file created by another tester X...
+class TC_Dummy3
+{
+	void test()
+	{
+		//something
+	}
+}
